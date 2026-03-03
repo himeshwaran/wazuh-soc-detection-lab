@@ -1,6 +1,6 @@
 # What is brute force
 
-# # Attacker Tries multiple username and password continously to find the correct one .
+### Attacker Tries multiple username and password continously to find the correct one .
 
 Attack tool used (Hydra)
 
